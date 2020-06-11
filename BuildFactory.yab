@@ -13,7 +13,7 @@ else
 	if (This_dir$ = "/boot/home/yab_work/BuildFactory") then
 		
 	else
-		This_dir$ = trim$(system$("pwd"))+"/yab_work/BuildFactory"
+		//This_dir$ = trim$(system$("pwd"))+"/yab_work/BuildFactory"
 		//print This_dir$+" found 2"
 	endif
 fi
