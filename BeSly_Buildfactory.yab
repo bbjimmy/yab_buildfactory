@@ -1,4 +1,4 @@
-#!/boot/system/bin/yab
+#!yab
 StartWindow()
 About()
 main()
